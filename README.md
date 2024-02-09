@@ -50,6 +50,7 @@ int main() {
 
     return 0;
 }
+```
 
 ## Contributing
 If you encounter any bugs or issues while using the library, please file an issue.
