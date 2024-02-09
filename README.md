@@ -51,13 +51,13 @@ int main() {
     return 0;
 }
 
-Contributing
+## Contributing
 If you encounter any bugs or issues while using the library, please file an issue.
 Add new features or improve existing code and submit a pull request.
 License
 This library is licensed under the MIT License. See the LICENSE file for more information.
 
-Contact
+## Contact
 For questions, suggestions, or feedback, you can email me
 
 ' Modern CPP 17 ' 
